@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a master's student at the University of Konstanz who is pursuing a degree in Data Science.
-I am currently working on my thesis that explores the structure of U.S. political class in public conciousness.
+I am currently working on my thesis that explores the structure of U.S. political class in collective memory.
